@@ -7,4 +7,4 @@
 ## 作ってる物
 [葬想式](https://sososhiki.jp/ "葬想式")
 
-[ポケキャス](https://pockecas.com/ "ポケキャス")
+[自宅葬のここ](https://www.jitakuso.jp/ "自宅葬のここ")
